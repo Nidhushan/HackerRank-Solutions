@@ -17,7 +17,7 @@ Output Format
 
 Print Weird if the number is weird. Otherwise, print Not Weird."""
 
-
+#Code:
 
 import math
 import os
